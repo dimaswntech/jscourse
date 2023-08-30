@@ -168,6 +168,6 @@
 //
 // console.log(`The bill was ${bill}, the tip was ${tip}, and the total value ${bill+tip}`)
 
-/* Write your code below. Good luck! 🙂 */
+/* Write your code below. Good luck! 🙂  werwer*/
 
 
