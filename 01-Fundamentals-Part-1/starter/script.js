@@ -160,10 +160,14 @@
 // console.log(time = 9?"wake up F@^$":"Good")
 
 
-const bill = 40;
+// const bill = 40;
+//
+// /* Write your code below. Good luck! 🙂 */
+//
+// let tip = bill<=300 && bill >=50 ? (bill*15)/100:(bill*20)/100
+//
+// console.log(`The bill was ${bill}, the tip was ${tip}, and the total value ${bill+tip}`)
 
 /* Write your code below. Good luck! 🙂 */
 
-let tip = bill<=300 && bill >=50 ? (bill*15)/100:(bill*20)/100
 
-console.log(`The bill was ${bill}, the tip was ${tip}, and the total value ${bill+tip}`)
